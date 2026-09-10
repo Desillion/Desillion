@@ -10,21 +10,15 @@
 
 <p>
 <img src="https://img.shields.io/badge/%D8%A7%D9%84%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-v1.0.0-blue?style=flat-square" alt="الإصدار 1.0.0"/>
-&nbsp;
 <img src="https://img.shields.io/badge/%D8%A7%D9%84%D9%85%D9%86%D8%B5%D8%A9-Windows%20%7C%20macOS-success?style=flat-square" alt="Windows و macOS"/>
-&nbsp;
 <img src="https://img.shields.io/badge/%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%20%D9%83%D8%A7%D9%85%D9%84%D8%A9-informational?style=flat-square" alt="عربية كاملة RTL"/>
-&nbsp;
 <img src="https://img.shields.io/badge/ZATCA-%D9%81%D8%A7%D8%AA%D9%88%D8%B1%D8%A9%20%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9%20%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-green?style=flat-square" alt="ZATCA"/>
 </p>
-
----
 
 <p>
 <a href="https://github.com/BasheirHassan/Desillion/releases/download/v1.0.0/DesillionServer.zip">
 <img src="https://img.shields.io/badge/%F0%9F%93%A5-%D8%AA%D8%AD%D9%85%D9%8A%D9%84%20%D8%A7%D9%84%D8%B3%D9%8A%D8%B1%D9%81%D8%B1-brightgreen?style=for-the-badge" alt="تحميل السيرفر"/>
 </a>
-&nbsp;
 <a href="https://github.com/BasheirHassan/Desillion/releases">
 <img src="https://img.shields.io/badge/%F0%9F%9A%80-%D8%A7%D9%84%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA-blue?style=for-the-badge" alt="الإصدارات"/>
 </a>
@@ -52,6 +46,8 @@
 <td align="right" valign="top">🔗 <b>ربط أكثر من جهاز</b><br/><sub>تابع عمل منشأتك من أي جهاز عبر الخادم الرئيسي</sub></td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -135,9 +131,11 @@
 
 ## 📥 التحميل والتثبيت
 
-<ol dir="rtl" align="right">
-<li>قم بتحميل ملف السيرفر من الزر أدناه:</li>
-</ol>
+<div dir="rtl" align="right">
+
+1. قم بتحميل ملف السيرفر من الزر أدناه:
+
+</div>
 
 <div align="center">
 
@@ -145,14 +143,14 @@
 
 </div>
 
-<ol dir="rtl" align="right" start="2">
-<li>فك ضغط الملف وشغّل السيرفر على الجهاز الرئيسي.</li>
-<li>ثبّت البرنامج على أجهزة المستخدمين واربطها بالخادم الرئيسي.</li>
-</ol>
+<div dir="rtl" align="right">
 
-<blockquote dir="rtl" align="right">
-💡 <b>تلميح:</b> يمكنك متابعة جميع الإصدارات الجديدة من خلال صفحة <a href="https://github.com/BasheirHassan/Desillion/releases">الإصدارات (Releases)</a>.
-</blockquote>
+2. فك ضغط الملف وشغّل السيرفر على الجهاز الرئيسي.
+3. ثبّت البرنامج على أجهزة المستخدمين واربطها بالخادم الرئيسي.
+
+> 💡 **تلميح:** يمكنك متابعة جميع الإصدارات الجديدة من خلال صفحة [الإصدارات (Releases)](https://github.com/BasheirHassan/Desillion/releases).
+
+</div>
 
 ---
 
@@ -186,8 +184,5 @@
 <div align="center" dir="rtl">
 
 <b>دشليون — إدارة أعمالك ببساطة واحترافية</b> 🚀
-
-
-</div>
 
 </div>
